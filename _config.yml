@@ -13,7 +13,7 @@ title:            Sepanda Pouryahya
 tagline:          'Mathematician, Data Scientist, Nonlinear Dynamicist'
 description:      'Mathematician, Data Scientist, Nonlinear Dynamicist'
 #url:              http://hyde.getpoole.com
-url:              /
+url:              http://sepanda.com
 baseurl:          /
 
 author:
@@ -26,5 +26,5 @@ paginate:         1
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+#  repo:           https://github.com/poole/hyde
   me: https://github.com/sepanda
