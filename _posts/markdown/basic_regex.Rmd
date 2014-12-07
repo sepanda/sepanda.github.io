@@ -286,7 +286,7 @@ stext[ grep(pattern = "^[^A-Za-z]", x = stext) ]
 
 Example:
 ```{r}
-numtext <- c("ONE", "2", "tHr33", "£44", "the answer is 42", ":)")
+numtext <- c("ONE", "2", "tHr33", "44", "the answer is 42", ":)")
 print(numtext)
 ```
 
