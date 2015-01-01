@@ -153,10 +153,10 @@ Blogs
 <img src="/assets/pictures/NLP_Project2014/2_PExp_BlgTop100.png" style="width: 250px;" />
 
 News
-<img src="/assets/pictures/NLP_Project2014/2_PExp_Newstop100.png" style="width: 250px;"  />
+<img src="/assets/pictures/NLP_Project2014/2_PExp_NewsTop100.png" style="width: 250px;"  />
 
 Twitter
-<img src="/assets/pictures/NLP_Project2014/2_PExp_Twittertop100.png" style="width: 250px;"  />
+<img src="/assets/pictures/NLP_Project2014/2_PExp_TwitterTop100.png" style="width: 250px;"  />
 
 
 **The outline for the word prediction app** (which changed in places as the project progressed)
