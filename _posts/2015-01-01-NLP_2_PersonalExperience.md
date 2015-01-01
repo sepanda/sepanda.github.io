@@ -149,10 +149,13 @@ The plot above shows that over 90% of the words (upper horizontal red line) iden
 
 Top 100 words by frequency for the Blog, News and Twitter samples are shown in the following clouds respectively, Note: The relative size of the words indicate how often the terms occur in the document with respect to one another.
 
+Blogs
 <img src="/assets/pictures/NLP_Project2014/2_PExp_BlgTop100.png" style="width: 250px;" />
 
+News
 <img src="/assets/pictures/NLP_Project2014/2_PExp_Newstop100.png" height="250px" width="250px" />
 
+Twitter
 <img src="/assets/pictures/NLP_Project2014/2_PExp_Twittertop100.png" height="250px" width="250px" />
 
 
