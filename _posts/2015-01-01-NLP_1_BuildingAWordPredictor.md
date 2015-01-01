@@ -26,7 +26,7 @@ Throughout the project I found that `R` on its own isn't a very popular language
 
 Below are the individual pages that I plan on making posts about. When they are written and posted I'll make the following list into links for easy navigation. 
 
-- How I got involved with NLP and my Experience.
+- [How I got involved with NLP and my Coursera Capstone Experience.](http://sepanda.com/2015/01/01/NLP_2_PersonalExperience/)
 - The Data: Getting, cleaning, and dividing.
 - The Data: Analysing the data.
 - Tokenizing.
