@@ -8,7 +8,7 @@ date: "Thursday, January 01, 2015"
 
 ## The NLP-Project
 
-The index housing all the pages for the NLP-Project is found here: [Building a Word Predictor]
+The index housing all the pages for the NLP-Project is found here: [Building a Word Predictor](http://sepanda.com/2015/01/01/NLP_1_BuildingAWordPredictor/)
 
 If you've just landed on this page and are looking for the word prediction shiny app I made for the Capstone Project, jump to the bottom of this page for links.
 
