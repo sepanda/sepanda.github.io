@@ -34,7 +34,7 @@ Below are the individual pages that I plan on making posts about. When they are 
 - Interpolation or Backoff? 
 - Stupid Backoff and Knesser-Ney.
 - Testing Accuracy.
-- The ShinyApp and a five-slide pitch.
+- [The ShinyApp](https://sepanda.shinyapps.io/ShinyWordPredictor/) and a [five-slide pitch](http://sepanda.com/Capstone_WordPredictorSlides/WordPredictorSlides.html#1).
 
 Just note, these pages and topic titles might change if I find a better way of presenting the info.
 
